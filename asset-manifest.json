@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Teaxt-react/static/css/main.bcf3f306.css",
+    "main.js": "/Teaxt-react/static/js/main.664b4c52.js",
+    "static/js/787.11011192.chunk.js": "/Teaxt-react/static/js/787.11011192.chunk.js",
+    "index.html": "/Teaxt-react/index.html",
+    "main.bcf3f306.css.map": "/Teaxt-react/static/css/main.bcf3f306.css.map",
+    "main.664b4c52.js.map": "/Teaxt-react/static/js/main.664b4c52.js.map",
+    "787.11011192.chunk.js.map": "/Teaxt-react/static/js/787.11011192.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcf3f306.css",
+    "static/js/main.664b4c52.js"
+  ]
+}
